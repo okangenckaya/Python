@@ -2,8 +2,6 @@ import random
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn import linear_model
-from sklearn.metrics import r2_score
 
 df = pd.read_csv('Employee_Salaries.csv')
 
